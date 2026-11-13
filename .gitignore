@@ -1,0 +1,6 @@
+# Generated diagnostic reports
+reports/*.txt
+
+# Temporary files
+*.tmp
+*.log
