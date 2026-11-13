@@ -1,6 +1,9 @@
-# Generated diagnostic reports
+# Generated output
 reports/*.txt
+logs/*.log
 
-# Temporary files
+# Temporary/editor files
 *.tmp
-*.log
+*.bak
+*.swp
+.vscode/
